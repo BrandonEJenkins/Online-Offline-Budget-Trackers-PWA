@@ -1,0 +1,19 @@
+{
+  "name": "online-offline-budget-trackers-pwa",
+  "version": "1.0.0",
+  "description": "A budget tracker PWA that allows fulls functionality online and offline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonEJenkins/Online-Offline-Budget-Trackers-PWA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonEJenkins/Online-Offline-Budget-Trackers-PWA/issues"
+  },
+  "homepage": "https://github.com/BrandonEJenkins/Online-Offline-Budget-Trackers-PWA#readme"
+}
