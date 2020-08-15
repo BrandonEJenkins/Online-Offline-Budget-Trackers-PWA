@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BrandonEJenkins/Online-Offline-Budget-Trackers-PWA/issues"
   },
-  "homepage": "https://github.com/BrandonEJenkins/Online-Offline-Budget-Trackers-PWA#readme"
+  "homepage": "https://github.com/BrandonEJenkins/Online-Offline-Budget-Trackers-PWA#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
